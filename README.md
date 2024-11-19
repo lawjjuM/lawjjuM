@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjwal sethi</h1>
 <h3 align="center">Aspiring AI & ML Engineer | Innovating with Data & Cutting-Edge Technology</h3>
-<img align=“right” alt =“coding” width=“400” src=“0_jv7K_jnnnOeBf9oZ.gif”>
+<img align=“right” alt =“coding” width=“400” src=“https://github.com/lawjjuM/lawjjuM/blob/main/0_jv7K_jnnnOeBf9oZ.gif”>
 
 - 🔭 I’m currently working on **smart attendance system**
 
