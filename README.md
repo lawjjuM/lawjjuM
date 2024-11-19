@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjwal sethi</h1>
 <h3 align="center">Aspiring AI & ML Engineer | Innovating with Data & Cutting-Edge Technology</h3>
-<img align=“right” alt =“coding” width=“400” src=“lawjjuM/0_jv7K_jnnnOeBf9oZ.gif”>
+<img align=“right” alt =“coding” width=“400” src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40Raftel_ai%2Fwhat-is-artificial-intelligence-ai-ca63d2754c6e&psig=AOvVaw2ONISXoGEWts7fO_JKF4Xi&ust=1732109165529000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCn29C_6IkDFQAAAAAdAAAAABAQ">
 
 - 🔭 I’m currently working on **smart attendance system**
 
