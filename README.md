@@ -1,6 +1,7 @@
+<img align=“right” alt =“coding” style="height : 250px ; width : 1000px" src="https://github.com/lawjjuM/lawjjuM/blob/main/photo.gif">
+
 <h1 align="center">Hi , I'm Ujjwal sethi</h1>
 <h3 align="center">Aspiring AI & ML Engineer | Innovating with Data & Cutting-Edge Technology</h3>
-<img align=“right” alt =“coding” style="height : 250px ; width : 1000px" src="https://github.com/lawjjuM/lawjjuM/blob/main/photo.gif">
 
 
 
